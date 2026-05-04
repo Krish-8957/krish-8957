@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Krish verma
 **BCA Student | Aspiring Machine Learning Engineer | Python & Data Science Enthusiast**
-Email Me 👉 ✉️ **kv108104@gmail.com**
+Email Me 👉 ✉️ **krishverma.2433303@gmail.com**
 
 
 - 🌱 **I’m currently learning:** Currently learning Machine Learning, Data Analysis, and Python programming
 - 💬 **Ask me about:** Ask me about Python, Machine Learning basics, and Data Analysis
-- 📫 **How to reach me:** kv108104@gmail.com
+- 📫 **How to reach me:** krishverma.2433303@gmail.com
 - 😄 **Pronouns:** krish verma
 - 
 
