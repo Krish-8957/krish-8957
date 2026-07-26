@@ -1,208 +1,370 @@
-<h1 align="center">Hi 👋, I'm Krish Verma</h1>
-<h3 align="center">AI/ML Developer | Generative AI | Multi-Agent Systems | Python Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Generative+AI+Explorer;Building+LLM-Powered+Applications;Multi-Agent+AI+Developer;FastAPI+%7C+Python+%7C+MCP+%7C+A2A" />
+# Hi, I'm Krish Verma 👋
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;BCA+Student+%7C+Python+Developer;Building+LLM-Powered+Applications;Exploring+Agentic+AI+and+Multi-Agent+Systems;MCP+%7C+A2A+%7C+FastAPI+%7C+Google+ADK"
+  alt="Typing introduction"
+/>
+
+<p>
+  <a href="mailto:kv108104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/krish-verma8957">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Krish-8957">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Krishverma57928/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Bachelor of Computer Applications (BCA)** student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**, passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and Multi-Agent Systems**.
+I am a **Bachelor of Computer Applications student** at **Pranveer Singh Institute of Technology, Kanpur**, with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, and backend development.
 
-I enjoy transforming ideas into practical AI solutions by combining backend development with modern AI frameworks. My primary interests include **Agentic AI**, **Model Context Protocol (MCP)**, **Agent-to-Agent (A2A)**, **FastAPI**, and scalable AI applications.
+I enjoy building practical applications that combine **Large Language Models, intelligent agents, APIs, databases, and modern AI frameworks**. My current focus is on developing secure and scalable AI systems using technologies such as **Python, FastAPI, Google ADK, Model Context Protocol, Agent-to-Agent Protocol, LangChain, and LangGraph**.
 
-- 🎓 BCA Student (2024–2027)
-- 🤖 Building AI-powered applications
-- 🧠 Learning Agentic AI & LLM Engineering
-- 🌱 Currently exploring Cloud Deployment & AWS
-- 💬 Ask me about Python, FastAPI, MCP, A2A, Machine Learning & Generative AI
-- 📍 India
+I believe the best way to learn technology is by building projects, solving problems, and continuously improving through hands-on practice.
 
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+- 🎓 Pursuing **Bachelor of Computer Applications — 2024 to 2027**
+- 🤖 Building **AI-powered and LLM-powered applications**
+- 🧠 Exploring **Agentic AI, RAG and Multi-Agent Systems**
+- 🔐 Interested in **AI security and secure data processing**
+- 💻 Practising **Data Structures and Algorithms**
+- ☁️ Currently learning **AWS and cloud deployment**
+- 📍 Based in India
+- 💬 Open to AI/ML, Python and software development opportunities
 
 ---
 
-### AI / Machine Learning
+## 🛠️ Technologies and Tools
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![Langflow](https://img.shields.io/badge/Langflow-purple?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge)
-![Google ADK](https://img.shields.io/badge/Google-ADK-red?style=for-the-badge)
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Programming Languages"/>
+</p>
+
+### Artificial Intelligence and Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and Machine Learning"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-7B61FF?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Google%20ADK-Agent%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent%20Workflows-0F172A?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Langflow-AI%20Workflows-FF4B4B?style=for-the-badge" alt="Langflow"/>
+</p>
+
+### Agentic AI and LLM Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Intelligent%20Agents-7C3AED?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-2563EB?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/A2A-Agent--to--Agent%20Protocol-059669?style=for-the-badge" alt="A2A"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-F59E0B?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Orchestration-DC2626?style=for-the-badge" alt="Multi-Agent Systems"/>
+</p>
+
+### Backend and APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST%20API-Backend%20Development-009688?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Uvicorn-ASGI%20Server-499848?style=for-the-badge" alt="Uvicorn"/>
+</p>
+
+### Databases and Vector Stores
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### Data Science and Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Streamlit-Application%20Development-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
 ---
 
-### Backend & Databases
+## 🚀 Featured Projects
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-EF3B2D?style=for-the-badge)
+### 🔐 Multi-Agent A2A and MCP Security Pipeline
+
+A security-focused multi-agent AI system that processes natural-language database questions through a controlled and protected workflow.
+
+#### Architecture
+
+```text
+User Question
+      │
+      ▼
+ Judge Agent
+      │
+      ├── Rejects malicious or unsafe requests
+      │
+      ▼
+ Query / SQL Agent
+      │
+      ├── Retrieves structured information
+      │
+      ▼
+ Mask Agent
+      │
+      ├── Protects sensitive information
+      │
+      ▼
+ Secure Response
+```
+
+#### Key Features
+
+- Built a secure multi-agent workflow using the **Agent-to-Agent Protocol**
+- Integrated **Model Context Protocol tools** for structured data access
+- Designed a three-agent architecture:
+  - Judge Agent
+  - SQL/Query Agent
+  - Mask Agent
+- Supports natural-language database queries
+- Detects prompt-injection attempts
+- Blocks dangerous SQL instructions
+- Prevents API-key and system-prompt disclosure
+- Masks sensitive information before returning results
+- Uses FastAPI and Uvicorn for agent services
+- Integrates Gemini-powered reasoning using Google ADK
+
+#### Technology Stack
+
+`Python` `Google ADK` `Gemini` `FastAPI` `A2A` `MCP` `SQL` `Uvicorn`
 
 ---
 
-### Developer Tools
+### 🔎 RepoLens AI
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+An AI-powered GitHub repository analyser that helps users understand public GitHub projects through a simple URL-based interface.
 
----
+#### Key Features
 
-# 🚀 Featured Projects
+- Analyses any public GitHub repository
+- Extracts repository owner and repository name
+- Retrieves repository metadata using the GitHub REST API
+- Reads README content
+- Displays repository files and programming language
+- Generates an AI-powered project review using Google Gemini
+- Provides an interactive Streamlit dashboard
+- Presents repository insights in a structured format
 
-## 🔹 Multi-Agent A2A + MCP Security Pipeline
+#### Technology Stack
 
-- Secure multi-agent architecture
-- Natural language database querying
-- Judge Agent → SQL Agent → Mask Agent
-- Prompt Injection Detection
-- SQL Injection Protection
-- Sensitive Data Masking
-- FastAPI + Google ADK + MCP + A2A
-
-**Tech:** Python • Google ADK • FastAPI • MCP • A2A • Gemini • SQL • Uvicorn
+`Python` `Streamlit` `Google Gemini` `GitHub REST API` `Requests` `Pydantic`
 
 ---
 
-## 🔹 RepoLens AI
+### 🏏 IPL Win Probability Predictor
 
-AI-powered GitHub Repository Analyzer.
+A machine-learning application that predicts the win probability of an IPL team during the second innings.
 
-### Features
+#### Key Features
 
-- Analyze any GitHub Repository
-- Extract README
-- Repository Metadata
-- File Structure
-- AI-generated Repository Review
-- Interactive Streamlit Dashboard
+- Processes historical IPL match and delivery data
+- Calculates current run rate and required run rate
+- Uses match situation features for prediction
+- Built using a machine-learning pipeline
+- Provides predictions through an interactive Streamlit application
 
-**Tech:** Python • Streamlit • Gemini AI • GitHub REST API
+#### Technology Stack
+
+`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Streamlit`
+
+---
+
+### 🔢 MNIST Handwritten Digit Classifier
+
+A deep-learning model developed to classify handwritten digits from the MNIST dataset.
+
+#### Key Features
+
+- Built and trained using PyTorch
+- Processes 28×28 grayscale digit images
+- Implements training and evaluation workflows
+- Uses model predictions and classification metrics
+- Demonstrates practical deep-learning fundamentals
+
+#### Technology Stack
+
+`Python` `PyTorch` `Deep Learning` `Jupyter Notebook`
+
+---
+
+## 💻 LeetCode and Problem Solving
+
+I regularly practise Data Structures and Algorithms to strengthen my logical thinking, coding efficiency, and technical-interview preparation.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>138+</strong><br/>Total Solved</td>
+    <td align="center"><strong>75</strong><br/>Easy</td>
+    <td align="center"><strong>56</strong><br/>Medium</td>
+    <td align="center"><strong>7</strong><br/>Hard</td>
+  </tr>
+</table>
+
+<a href="https://leetcode.com/u/Krishverma57928/">
+  <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-Krishverma57928-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Problems%20Solved-138%2B-success?style=flat-square" alt="Problems Solved"/>
+<img src="https://img.shields.io/badge/Easy-75-00B8A3?style=flat-square" alt="Easy Problems"/>
+<img src="https://img.shields.io/badge/Medium-56-FFC01E?style=flat-square" alt="Medium Problems"/>
+<img src="https://img.shields.io/badge/Hard-7-FF375F?style=flat-square" alt="Hard Problems"/>
+<img src="https://img.shields.io/badge/Badge-50%20Days%202026-8B5CF6?style=flat-square" alt="50 Days Badge"/>
+
+</div>
+
+> My LeetCode profile is linked directly instead of using an unofficial statistics card, ensuring that visitors always reach the correct profile.
 
 ---
 
 ## 📚 Currently Learning
 
-- Agentic AI
-- Multi-Agent Systems
-- LLM Engineering
-- AI Security
-- Cloud Deployment
-- AWS
-- Advanced FastAPI
+- Advanced Agentic AI architectures
+- Multi-agent communication and orchestration
+- Production-ready FastAPI applications
+- Retrieval-Augmented Generation optimisation
+- LLM security and prompt-injection defence
+- Cloud deployment and AWS
+- Scalable AI application design
+- Data Structures and Algorithms
 
 ---
 
-# 💻 LeetCode
+## 🏆 Achievements
 
-I regularly practice Data Structures and Algorithms to strengthen my problem-solving skills and prepare for technical interviews.
-
-- 🚀 **138+ Problems Solved**
-- 🟢 Easy: **75**
-- 🟡 Medium: **56**
-- 🔴 Hard: **7**
-- 🏅 50 Days Badge (2026)
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/KrishVerma8957?theme=dark&font=Baloo&ext=contest"/>
-</p>
-
-<p align="center">
-<a href="https://leetcode.com/u/KrishVerma8957/">
-<img src="https://img.shields.io/badge/LeetCode-KrishVerma8957-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
+- Participated in the **Smart India Hackathon**
+- Participated in the **IBM–CSJMU Hackathon** among more than 150 teams
+- Solved more than 138 LeetCode problems
+- Earned the **50 Days LeetCode Badge in 2026**
+- Built multiple AI, machine-learning, and software-development projects
+- Developed practical applications using LLMs and multi-agent frameworks
+- Maintained projects on GitHub demonstrating hands-on development skills
 
 ---
 
-# 🏆 Achievements
+## 📜 Certifications
 
-- 🚀 Solved 150+ DSA Problems
-- 💻 Built AI-powered Projects
-- 🤖 Developed LLM Applications
-- 🏆 Smart India Hackathon Participant
-- 🏅 IBM-CSJMU Hackathon Participant
-
----
-
-# 📜 Certifications
-
-- Python for Data Science – Infosys Springboard
-- Programming Fundamentals using Python – Infosys Springboard
-- AI Yuva – Tata Consultancy Services
-- Generative AI Job Simulation – Boston Consulting Group (BCG)
+- **Python for Data Science** — Infosys Springboard
+- **Programming Fundamentals Using Python** — Infosys Springboard
+- **AI Yuva** — Tata Consultancy Services
+- **Generative AI Job Simulation** — Boston Consulting Group
 
 ---
 
-# 📊 GitHub Statistics
+## 🎓 Education
 
-<p align="center">
+### Bachelor of Computer Applications
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-8957&show_icons=true&theme=tokyonight"/>
+**Pranveer Singh Institute of Technology, Kanpur**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-8957&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-8957&layout=compact&theme=tokyonight"/>
-
-</p>
+- Duration: 2024–2027
+- Expected graduation: 2027
+- Current CGPA: 7.04/10
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krish-8957&theme=tokyonight&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Krish-8957&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Krish Verma GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-8957&theme=tokyonight&hide_border=true"
+  alt="Krish Verma GitHub streak"
+/>
+
+<br/>
+
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-8957&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Most used languages"
+/>
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-8957&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-8957&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub contribution graph"
+/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="mailto:kv108104@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-kv108104%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://linkedin.com/in/krish-verma8957">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Krish%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Krish-8957">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Krish--8957-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://leetcode.com/u/KrishVerma8957/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/Krishverma57928/">
+  <img src="https://img.shields.io/badge/LeetCode-Krishverma57928-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-⭐️ From <b>Krish Verma</b> • Building intelligent software with AI, LLMs, and Multi-Agent Systems.
-</p>
+<div align="center">
+
+### Building intelligent applications with AI, LLMs and Multi-Agent Systems
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krish-8957&label=Profile%20Views&color=2F81F7&style=flat-square)
+
+⭐ From **Krish Verma**
+
+</div>
