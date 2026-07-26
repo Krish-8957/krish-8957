@@ -3,8 +3,8 @@
 # Hi 👋, I'm Krish Verma
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Bachelor+of+Computer+Applications+Student;Python+Developer;Building+LLM-Powered+Applications;Exploring+Agentic+AI+and+Multi-Agent+Systems"
-  alt="Typing introduction"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+AI%2FML+Developer;Python+Developer;Building+LLM-Powered+Applications;Exploring+Agentic+AI+and+Multi-Agent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI"
+  alt="Animated introduction"
 />
 
 <p>
@@ -33,20 +33,16 @@
 
 ## 👨‍💻 About Me
 
-I am a **Bachelor of Computer Applications student** at **Pranveer Singh Institute of Technology, Kanpur**, with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, and backend development.
+I am a **Bachelor of Computer Applications student** at **Pranveer Singh Institute of Technology, Kanpur**, with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and backend development.
 
-I enjoy building practical applications by combining **Large Language Models, intelligent agents, APIs, databases, and modern development frameworks**.
+I enjoy building practical applications by combining **machine learning models, large language models, intelligent agents, APIs, databases, and modern development frameworks**.
 
 My current focus is on **Agentic AI, Multi-Agent Systems, Model Context Protocol, Agent-to-Agent communication, Retrieval-Augmented Generation, and secure AI applications**.
 
-- 🎓 Pursuing **Bachelor of Computer Applications — 2024 to 2027**
 - 🤖 Building AI-powered and LLM-powered applications
-- 🧠 Exploring Agentic AI, RAG and Multi-Agent Systems
+- 🧠 Exploring Machine Learning, Deep Learning and Agentic AI
 - 🔐 Interested in AI security and secure data processing
-- 💻 Practising Data Structures and Algorithms
-- ☁️ Learning AWS and cloud deployment
-- 📍 Based in India
-- 💼 Open to AI/ML, Python and software development opportunities
+- 💼 Open to AI/ML, Python and software-development opportunities
 
 ---
 
@@ -55,111 +51,102 @@ My current focus is on **Agentic AI, Multi-Agent Systems, Model Context Protocol
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" alt="Programming Languages"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ---
 
-## 🤖 Artificial Intelligence and Machine Learning
+## 📚 Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and Machine Learning"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge"/>
 </p>
+
+---
+
+## 🧩 Frameworks and AI Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Development-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-EE4C2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-7B61FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-NLP-2563EB?style=for-the-badge"/>
-</p>
-
----
-
-## 🧩 Frameworks and Libraries
-
-<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langflow-AI%20Workflows-FF4B4B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Langflow-Visual%20AI%20Framework-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20ADK-Agent%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-Backend%20Framework-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-Web%20Applications-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
----
-
-## 🧠 Agentic AI and LLM Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Agentic%20AI-Intelligent%20Agents-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/A2A-Agent--to--Agent%20Protocol-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Agent%20Orchestration-DC2626?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-8B5CF6?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄️ Databases and Vector Databases
+## 🧠 Core Areas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Intelligent%20Agents-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Agent%20Orchestration-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-2563EB?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-Relational%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Database%20Queries-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite-Lightweight%20Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚙️ Backend and APIs
+## ☁️ Cloud Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud Platforms"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-API%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-Backend%20Development-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Uvicorn-ASGI%20Server-499848?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub%20REST%20API-API%20Integration-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
 
-## 🔧 Developer Tools
+## 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-Application%20Development-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Web%20Applications-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
 
 # 💻 LeetCode Profile
 
-I regularly practise Data Structures and Algorithms to improve my problem-solving skills, logical thinking, coding efficiency, and technical-interview preparation.
+I regularly practise Data Structures and Algorithms to improve my problem-solving ability, coding efficiency, logical thinking, and technical-interview preparation.
 
 <div align="center">
 
@@ -222,12 +209,9 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 
 - Advanced Agentic AI architectures
 - Multi-agent communication and orchestration
-- Production-ready FastAPI applications
 - Retrieval-Augmented Generation optimisation
 - LLM security and prompt-injection defence
-- Cloud deployment and AWS
-- Scalable AI application design
-- Data Structures and Algorithms
+- AWS and Google Cloud
 
 ---
 
@@ -239,7 +223,6 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 
 - Duration: 2024–2027
 - Expected Graduation: 2027
-- CGPA: 7.04/10
 
 ---
 
@@ -320,7 +303,7 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 
 <div align="center">
 
-### Building intelligent applications with AI, LLMs and Multi-Agent Systems
+### Building intelligent applications with AI, Machine Learning and Multi-Agent Systems
 
 ⭐ From **Krish Verma**
 
