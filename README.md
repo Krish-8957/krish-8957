@@ -1,39 +1,208 @@
-# 💫 Hi 👋, I'm Krish verma
-**BCA Student | Aspiring Machine Learning Engineer | Python & Data Science Enthusiast**
-Email Me 👉 ✉️ **krishverma.2433303@gmail.com**
+<h1 align="center">Hi 👋, I'm Krish Verma</h1>
+<h3 align="center">AI/ML Developer | Generative AI | Multi-Agent Systems | Python Developer</h3>
 
-
-- 🌱 **I’m currently learning:** Currently learning Machine Learning, Data Analysis, and Python programming
-- 💬 **Ask me about:** Ask me about Python, Machine Learning basics, and Data Analysis
-- 📫 **How to reach me:** krishverma.2433303@gmail.com
-- 😄 **Pronouns:** krish verma
-- 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnaverma57928) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KanhaVe83249055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kv108104@gmail.com) 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Krish-8957&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Krish-8957&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krish-8957&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Krish-8957&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krish-8957&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Generative+AI+Explorer;Building+LLM-Powered+Applications;Multi-Agent+AI+Developer;FastAPI+%7C+Python+%7C+MCP+%7C+A2A" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Krish-8957&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Bachelor of Computer Applications (BCA)** student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**, passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and Multi-Agent Systems**.
+
+I enjoy transforming ideas into practical AI solutions by combining backend development with modern AI frameworks. My primary interests include **Agentic AI**, **Model Context Protocol (MCP)**, **Agent-to-Agent (A2A)**, **FastAPI**, and scalable AI applications.
+
+- 🎓 BCA Student (2024–2027)
+- 🤖 Building AI-powered applications
+- 🧠 Learning Agentic AI & LLM Engineering
+- 🌱 Currently exploring Cloud Deployment & AWS
+- 💬 Ask me about Python, FastAPI, MCP, A2A, Machine Learning & Generative AI
+- 📍 India
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+---
+
+### AI / Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+![Langflow](https://img.shields.io/badge/Langflow-purple?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google-ADK-red?style=for-the-badge)
+
+---
+
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF3B2D?style=for-the-badge)
+
+---
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Multi-Agent A2A + MCP Security Pipeline
+
+- Secure multi-agent architecture
+- Natural language database querying
+- Judge Agent → SQL Agent → Mask Agent
+- Prompt Injection Detection
+- SQL Injection Protection
+- Sensitive Data Masking
+- FastAPI + Google ADK + MCP + A2A
+
+**Tech:** Python • Google ADK • FastAPI • MCP • A2A • Gemini • SQL • Uvicorn
+
+---
+
+## 🔹 RepoLens AI
+
+AI-powered GitHub Repository Analyzer.
+
+### Features
+
+- Analyze any GitHub Repository
+- Extract README
+- Repository Metadata
+- File Structure
+- AI-generated Repository Review
+- Interactive Streamlit Dashboard
+
+**Tech:** Python • Streamlit • Gemini AI • GitHub REST API
+
+---
+
+## 📚 Currently Learning
+
+- Agentic AI
+- Multi-Agent Systems
+- LLM Engineering
+- AI Security
+- Cloud Deployment
+- AWS
+- Advanced FastAPI
+
+---
+
+# 💻 LeetCode
+
+I regularly practice Data Structures and Algorithms to strengthen my problem-solving skills and prepare for technical interviews.
+
+- 🚀 **138+ Problems Solved**
+- 🟢 Easy: **75**
+- 🟡 Medium: **56**
+- 🔴 Hard: **7**
+- 🏅 50 Days Badge (2026)
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/KrishVerma8957?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/KrishVerma8957/">
+<img src="https://img.shields.io/badge/LeetCode-KrishVerma8957-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Solved 150+ DSA Problems
+- 💻 Built AI-powered Projects
+- 🤖 Developed LLM Applications
+- 🏆 Smart India Hackathon Participant
+- 🏅 IBM-CSJMU Hackathon Participant
+
+---
+
+# 📜 Certifications
+
+- Python for Data Science – Infosys Springboard
+- Programming Fundamentals using Python – Infosys Springboard
+- AI Yuva – Tata Consultancy Services
+- Generative AI Job Simulation – Boston Consulting Group (BCG)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krish-8957&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-8957&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-8957&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Krish-8957&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-8957&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:kv108104@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/krish-verma8957">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Krish-8957">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/KrishVerma8957/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐️ From <b>Krish Verma</b> • Building intelligent software with AI, LLMs, and Multi-Agent Systems.
+</p>
