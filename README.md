@@ -242,7 +242,6 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 <img
   width="49%"
   src="https://github-readme-stats.vercel.app/api?username=Krish-8957&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Krish Verma's GitHub Stats"
 />
 
 <img
@@ -256,7 +255,7 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 <img
   width="48%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-8957&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Krish Verma's Top Languages"
+
 />
 
 </div>
