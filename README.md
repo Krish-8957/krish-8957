@@ -239,28 +239,15 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Krish-8957&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Krish-8957&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img
-  width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-8957&theme=tokyonight&hide_border=true"
-  alt="Krish Verma's GitHub Streak"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-8957&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<br><br>
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-8957&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-
-/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Krish-8957&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # 📈 Contribution Activity
 
@@ -302,8 +289,8 @@ I regularly practise Data Structures and Algorithms to improve my problem-solvin
 
 <div align="center">
 
-### Building intelligent applications with AI, Machine Learning and Multi-Agent Systems
+**Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
 
-⭐ From **Krish Verma**
+⭐ From Krish Verma
 
 </div>
